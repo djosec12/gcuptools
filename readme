@@ -1,0 +1,12 @@
+install termux / te / zsahaolin
+
+termux
+- apt-get update (enter)
+- apt-get upgrade(enter)
+- apt-get install python(enter)
+- apt-get install git(enter)
+- git clone http://github.com/djosec12/gcuptools.git(enter)
+- cd gcuptools
+- python gcup.py
+
+- done
